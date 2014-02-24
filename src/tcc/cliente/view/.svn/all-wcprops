@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/univastcc/!svn/ver/354/TCCCardapio/src/tcc/cliente/view
+END
+ProdutoEspecificacaoForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/univastcc/!svn/ver/348/TCCCardapio/src/tcc/cliente/view/ProdutoEspecificacaoForm.java
+END
+TelaError.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/univastcc/!svn/ver/297/TCCCardapio/src/tcc/cliente/view/TelaError.java
+END
+TelaDesbloqueio.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/univastcc/!svn/ver/319/TCCCardapio/src/tcc/cliente/view/TelaDesbloqueio.java
+END
+TelaProdutoRelatorio.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/univastcc/!svn/ver/258/TCCCardapio/src/tcc/cliente/view/TelaProdutoRelatorio.java
+END
+JPanelDropShadow.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/univastcc/!svn/ver/229/TCCCardapio/src/tcc/cliente/view/JPanelDropShadow.java
+END
+TelaCardapioPrincipal.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/univastcc/!svn/ver/348/TCCCardapio/src/tcc/cliente/view/TelaCardapioPrincipal.java
+END
+TelaEscolhaMesa.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/univastcc/!svn/ver/342/TCCCardapio/src/tcc/cliente/view/TelaEscolhaMesa.java
+END
+TelaListaPedidos.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/univastcc/!svn/ver/354/TCCCardapio/src/tcc/cliente/view/TelaListaPedidos.java
+END
+JPanelBackgroundImage.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/univastcc/!svn/ver/229/TCCCardapio/src/tcc/cliente/view/JPanelBackgroundImage.java
+END
+JButtonBG.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/univastcc/!svn/ver/229/TCCCardapio/src/tcc/cliente/view/JButtonBG.java
+END

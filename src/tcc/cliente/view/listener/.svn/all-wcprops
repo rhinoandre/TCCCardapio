@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/univastcc/!svn/ver/351/TCCCardapio/src/tcc/cliente/view/listener
+END
+TelaEscolhaMesaListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/univastcc/!svn/ver/184/TCCCardapio/src/tcc/cliente/view/listener/TelaEscolhaMesaListener.java
+END
+TelaListaPedidosListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/univastcc/!svn/ver/233/TCCCardapio/src/tcc/cliente/view/listener/TelaListaPedidosListener.java
+END
+TelaErrorAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/univastcc/!svn/ver/311/TCCCardapio/src/tcc/cliente/view/listener/TelaErrorAdapter.java
+END
+TelaErrorListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/univastcc/!svn/ver/297/TCCCardapio/src/tcc/cliente/view/listener/TelaErrorListener.java
+END
+TelaDesbloqueioListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/univastcc/!svn/ver/184/TCCCardapio/src/tcc/cliente/view/listener/TelaDesbloqueioListener.java
+END
+TelaCardapioAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/univastcc/!svn/ver/187/TCCCardapio/src/tcc/cliente/view/listener/TelaCardapioAdapter.java
+END
+TelaProdutoEspecificacoesAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/univastcc/!svn/ver/184/TCCCardapio/src/tcc/cliente/view/listener/TelaProdutoEspecificacoesAdapter.java
+END
+ControllerListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/univastcc/!svn/ver/351/TCCCardapio/src/tcc/cliente/view/listener/ControllerListener.java
+END
+TelaCardapioListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/univastcc/!svn/ver/187/TCCCardapio/src/tcc/cliente/view/listener/TelaCardapioListener.java
+END
+TelaProdutoEspecificacoesListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/univastcc/!svn/ver/184/TCCCardapio/src/tcc/cliente/view/listener/TelaProdutoEspecificacoesListener.java
+END
